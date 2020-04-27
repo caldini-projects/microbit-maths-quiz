@@ -15,7 +15,7 @@ Setup:
 1. Copy the javascript from [maths-quiz-pupil.js](https://github.com/caldini-projects/microbit-maths-quiz/blob/master/maths-quiz-pupil.js) into the JavaScript editor
 1. Flash it to your second micro:bit
 
-How to play:
+**How to play:**
 The teacher sends a sum to the pupil along with the correct answer and an incorrect answer. The pupil receives the sum and then chooses the answer they think is correct by pressing either Button A or Button B. If it is correct their score will get updated by one.
 
 Teacher:
