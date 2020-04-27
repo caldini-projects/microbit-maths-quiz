@@ -29,3 +29,5 @@ Pupil:
 * Button A+B: shows the current score
 * Shake: gives a reminder of the sum and the answer assigned to each button 
 
+**For more information...**
+* Visit [microbit.org](https://microbit.org/)
