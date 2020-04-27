@@ -8,11 +8,11 @@ You will need:
 Setup:
 1. Start a new project in MakeCode and call it maths-quiz-teacher
 1. Switch to the JavaScript editor
-1. Copy the javascript from maths-quiz-teacher.js into the JavaScript editor
+1. Copy the javascript from [maths-quiz-teacher.js](https://github.com/caldini-projects/microbit-maths-quiz/blob/master/maths-quiz-teacher.js) into the JavaScript editor
 1. Flash it to your first micro:bit
 1. Start another new project in MakeCode and call it maths-quiz-pupil
 1. Switch to the JavaScript editor
-1. Copy the javascript from maths-quiz-pupil.js into the JavaScript editor
+1. Copy the javascript from [maths-quiz-pupil.js](https://github.com/caldini-projects/microbit-maths-quiz/blob/master/maths-quiz-pupil.js) into the JavaScript editor
 1. Flash it to your second micro:bit
 
 How to play:
